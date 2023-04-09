@@ -9,8 +9,6 @@ I don’t love people. I love Camaros, Zeppelin, and Intellij – in that order!
 
 Not a robot! Sempre buscando aprender novas tecnologias e aperfeiçoar minhas habilidades, atualmente cursando o 3º período de Sistemas para Internet no IFTM. 
 
-Um grande entusiasta de Java e javaScript.
-
 Linguagens e Ferramentas:
 -
 - Html
