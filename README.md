@@ -22,7 +22,7 @@ Linguagens e Ferramentas:
 - JPA
 - MySQL
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,vite,java,spring,hibernate,mysql,kotlin,github,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,vite,java,spring,hibernate,mysql,kotlin,github,git,,,,,)](https://skills.thijs.gg)
 
 <hr>
 <p style="display: flex; justify-contect: space-between;">
