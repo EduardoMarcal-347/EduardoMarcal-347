@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning CSS, JavaScript , Java e C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me edumsfilho347@gmail.com.
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java)](https://skills.thijs.gg)
