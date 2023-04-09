@@ -22,8 +22,7 @@ Linguagens e Ferramentas:
 - JPA
 - MySQL
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,vite,java,spring,hibernate,mysql,kotlin,github,git,,,,,)](https://skills.thijs.gg)
-
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,vite,java,spring,hibernate,mysql,kotlin,github,git)](https://skills.thijs.gg)
 <hr>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=EduardoMarcal-347" />
