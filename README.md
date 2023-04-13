@@ -26,6 +26,6 @@ Linguagens e Ferramentas:
 <hr>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=EduardoMarcal-347" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMarcal-347&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
