@@ -7,7 +7,7 @@
 
 I don’t love people. I love Camaros, Zeppelin, and Intellij – in that order!
 
-Not a robot! Sempre buscando aprender novas tecnologias e aperfeiçoar minhas habilidades, atualmente cursando o 3º período de Sistemas para Internet no IFTM. 
+Sempre buscando aprender novas tecnologias e aperfeiçoar minhas habilidades, atualmente cursando o 3º período de Sistemas para Internet no IFTM. 
 
 Linguagens e Ferramentas:
 -
