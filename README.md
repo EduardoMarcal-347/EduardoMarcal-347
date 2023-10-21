@@ -5,25 +5,6 @@
 [![Mail](https://img.shields.io/badge/Instagram-marcalv07-white?logo=Instagram&logoColor=Pink&labelColor=black)](https://www.instagram.com/edumv__07/?next=%2F)
 <hr>
 
-I don’t love people. I love Camaros, Zeppelin, and Intellij – in that order!
-
-Sempre buscando aprender novas tecnologias e aperfeiçoar minhas habilidades, atualmente cursando o 3º período de Sistemas para Internet no IFTM. 
-
-Linguagens e Ferramentas:
--
-- Html
-- Css
-- Bootstrap
-- Javascript
-- React
-- Java
-- Spring Framework
-- Hibernate
-- JPA
-- MySQL
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,vite,java,spring,hibernate,mysql,kotlin,github,git)](https://skills.thijs.gg)
-<hr>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=EduardoMarcal-347" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMarcal-347&layout=compact&langs_count=7&theme=dracula"/>
