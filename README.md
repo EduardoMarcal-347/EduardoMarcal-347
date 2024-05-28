@@ -1,4 +1,5 @@
-📝 **Hello World!! Meu nome é Eduardo Marçal;** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/EduardoMarcal-347?label=Follow%20Me&style=social)](https://github.com/EduardoMarcal-347)
+**I'm Eduardo Marçal, a software developer who loves turning coffee into code. My work revolves around crafting innovative and efficient solutions that make life easier.**
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/EduardoMarcal-347?label=Follow%20Me&style=social)](https://github.com/EduardoMarcal-347)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Eduardo%20Marçal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://br.linkedin.com/in/eduardo-mar%C3%A7al-de-souza-filho-9037231b4)
 [![Mail](https://img.shields.io/badge/Gmail-edumsfilho347@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:edumsfilho347@gmail.com)
